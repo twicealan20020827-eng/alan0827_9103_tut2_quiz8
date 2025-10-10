@@ -6,8 +6,9 @@ In this work, I was inspired by Summer Wars, a work by Japanese anime director M
 ![An image of inspiring](assets/summer%20wars(1).jpg)
 
 # Part 2: Coding Technique Exploration
-I found the geometric motion animation in MDM. To create a multi-graphic animation effect, you can use Animation-name: to achieve the goal. Then, use the  translate() function to create positional changes. This makes web animations more vivid and engaging.
-The code’s random spawning and morphing of shapes could be adapted to simulate IOT “transition” or abstract perception shifts, supporting a re-enchanted or immersive visual experience.
+I found some geometric motion animations in the work of OpenProcessing creator OKAZZ. To create a slowly moving shape animation, use the easeInOutExpo() function. Then, use the line(this.x, this.y, this.fromX, this.fromY); function to create a continuous movement effect. This makes the animation more dynamic and interesting.
+The random generation and deformation of shapes in code can be used to simulate IoT "transitions" or shifts in abstract perception, creating an immersive visual experience.
 
-[Link Text] (https://reurl.cc/EQAp6K)
+[Link Text] (https://openprocessing.org/sketch/2421742)
 ![An image of inspiring](assets/example%20code.png)
+![An image of inspiring](assets/example%20code1.png)
